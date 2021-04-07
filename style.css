@@ -1,5 +1,6 @@
 body {
 	background: #f9e933; 
+	font-family: 'Droid sans';
 	font-size: 100%;
 }
 
@@ -10,6 +11,7 @@ a {
 
 h1, h2, h3, h4 {
 	font-size: 120%;
+	font-family: Ubuntu;
 }
 
 header, main, footer { 
